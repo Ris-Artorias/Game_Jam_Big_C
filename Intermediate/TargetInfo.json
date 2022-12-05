@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Game_Jam",
+			"Path": "R:\\Game Jams\\Big C Y3 and Y2\\Game_Jam\\Source\\Game_Jam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Game_JamEditor",
+			"Path": "R:\\Game Jams\\Big C Y3 and Y2\\Game_Jam\\Source\\Game_JamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
