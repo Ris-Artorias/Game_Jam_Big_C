@@ -760,3 +760,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.05-18.18.31:033][716]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
 [2022.12.05-18.18.31:078][716]LogSlate: Took 0.000467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.12.05-18.18.36:352][981]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.12.05-18.19.52:832][308]LogDerivedDataCache: C:/Users/ryand/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.523 and deleted 1 file(s) with total size 0 MiB.
