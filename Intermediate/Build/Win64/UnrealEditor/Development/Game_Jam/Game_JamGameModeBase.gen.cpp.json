@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "r:\\game jams\\big c y3 and y2\\game_jam\\intermediate\\build\\win64\\unrealeditor\\inc\\game_jam\\game_jamgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "r:\\game jams\\big c y3 and y2\\game_jam\\intermediate\\build\\win64\\game_jameditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "r:\\game jams\\big c y3 and y2\\game_jam\\intermediate\\build\\win64\\unrealeditor\\development\\game_jam\\definitions.game_jam.h",
+            "r:\\game jams\\big c y3 and y2\\game_jam\\source\\game_jam\\game_jamgamemodebase.h",
+            "a:\\unreal 4\\game engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "a:\\unreal 4\\game engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "a:\\unreal 4\\game engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "a:\\unreal 4\\game engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "r:\\game jams\\big c y3 and y2\\game_jam\\intermediate\\build\\win64\\unrealeditor\\inc\\game_jam\\game_jamgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Game_Jam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"R:\Game Jams\Big C Y3 and Y2\Game_Jam\Intermediate\Build\Win64\Game_JamEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"R:\Game Jams\Big C Y3 and Y2\Game_Jam\Intermediate\Build\Win64\UnrealEditor\Development\Game_Jam\Game_Jam.cpp.obj"
+"R:\Game Jams\Big C Y3 and Y2\Game_Jam\Intermediate\Build\Win64\UnrealEditor\Development\Game_Jam\Game_JamGameModeBase.cpp.obj"
+"R:\Game Jams\Big C Y3 and Y2\Game_Jam\Intermediate\Build\Win64\UnrealEditor\Development\Game_Jam\Game_Jam.init.gen.cpp.obj"
+"R:\Game Jams\Big C Y3 and Y2\Game_Jam\Intermediate\Build\Win64\UnrealEditor\Development\Game_Jam\Game_JamGameModeBase.gen.cpp.obj"
+"R:\Game Jams\Big C Y3 and Y2\Game_Jam\Intermediate\Build\Win64\UnrealEditor\Development\Game_Jam\Default.rc2.res"
+/OUT:"R:\Game Jams\Big C Y3 and Y2\Game_Jam\Intermediate\Build\Win64\UnrealEditor\Development\Game_Jam\UnrealEditor-Game_Jam.lib"
