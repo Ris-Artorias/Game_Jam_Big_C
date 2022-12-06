@@ -1953,3 +1953,195 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.06-15.03.32:734][580]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TEMP_BP_Player_View.TEMP_BP_Player_View
 [2022.12.06-15.03.32:735][580]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Tower_Select.WBP_Tower_Select
 [2022.12.06-15.03.32:735][580]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Pause_Menu.WBP_Pause_Menu
+[2022.12.06-15.10.33:156][331]LogDerivedDataCache: C:/Users/2002424/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.031 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.06-15.17.36:620][570]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-15.17.38:938][570]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.06-15.17.38:947][570]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.06-15.17.38:952][570]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.06-15.17.38:965][571]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.06-15.17.53:724][335]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Main_Menu
+[2022.12.06-15.17.54:192][335]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.06-15.17.57:429][703]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.06-15.17.57:429][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.17.57:448][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.17.57:975][703]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-15.17.57:975][703]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-15.21.45:760][703]BlueprintLog: New page: Compile WBP_Main_Menu
+[2022.12.06-15.21.45:882][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.12.06-15.21.46:977][744]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Main_Menu
+[2022.12.06-15.21.46:978][744]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_Menu70E2EB79478A4E3C75E2B6BC0AF18167.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Main_Menu.uasset'
+[2022.12.06-15.21.47:935][744]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2022.12.06-15.21.47:935][744]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.06-15.22.31:216][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.12.06-15.22.31:219][263]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.075
+[2022.12.06-15.22.31:220][263]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP_Main_Menu] ([2] browsable assets)...
+[2022.12.06-15.22.31:222][263]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu]
+[2022.12.06-15.22.31:222][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP_Main_Menu]
+[2022.12.06-15.22.31:427][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WBP_Main_Menu_Auto3
+[2022.12.06-15.22.31:427][263]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_Menu_Auto392C3C310486F0F7357E370B95D4A24D8.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/Autosaves/Game/Blueprints/WBP_Main_Menu_Auto3.uasset'
+[2022.12.06-15.22.31:438][263]LogFileHelpers: Auto-saving content packages took 0.220
+[2022.12.06-15.25.20:111][134]BlueprintLog: New page: Compile WBP_Main_Menu
+[2022.12.06-15.25.20:198][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.06-15.25.21:542][180]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Main_Menu
+[2022.12.06-15.25.21:558][180]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_Menu4499F3EF4A4053F627DC8E9E55760EBD.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Main_Menu.uasset'
+[2022.12.06-15.25.21:614][180]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2022.12.06-15.25.21:614][180]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.06-15.26.33:961][105]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.06-15.28.22:703][410]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2022.12.06-15.29.23:470][863]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2022.12.06-15.31.00:692][855]BlueprintLog: New page: Compile WBP_Main_Menu
+[2022.12.06-15.31.00:786][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.12.06-15.31.02:359][882]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Main_Menu
+[2022.12.06-15.31.02:373][882]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_Menu33B14F1F4CCCBACBB7A783B746C9C686.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Main_Menu.uasset'
+[2022.12.06-15.31.02:426][882]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2022.12.06-15.31.02:426][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.06-15.31.04:585][ 85]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-15.31.46:817][811]BlueprintLog: New page: Compile WBP_Main_Menu
+[2022.12.06-15.31.46:911][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.06-15.31.48:544][859]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Main_Menu
+[2022.12.06-15.31.48:559][859]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_Menu4FC150664B7AA1B44E1140A30B58B8F3.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Main_Menu.uasset'
+[2022.12.06-15.31.48:590][859]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2022.12.06-15.31.48:590][859]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.06-15.32.00:992][237]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-15.32.01:026][237]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.06-15.32.01:027][237]LogPlayLevel: [PlayLevel] Compiling TEMP_BP_Player_View before play...
+[2022.12.06-15.32.01:179][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.12.06-15.32.01:182][237]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2022.12.06-15.32.01:182][237]PIE: New page: PIE session: Main (6 Dec 2022, 15:32:01)
+[2022.12.06-15.32.01:229][237]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.12.06-15.32.01:239][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010049s)
+[2022.12.06-15.32.01:239][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.010226s)
+[2022.12.06-15.32.01:239][237]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.32.01:239][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.32.01:240][237]LogAIModule: Creating AISystem for world Main
+[2022.12.06-15.32.01:240][237]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2022.12.06-15.32.01:305][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.12.06-15.32.01:306][237]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.06-15.32.01:306][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.32.01:306][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.32.01:306][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.32.01:306][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.32.01:306][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.32.01:306][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.32.01:306][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.32.01:306][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.32.01:307][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.32.01:307][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.32.01:307][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.32.01:311][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.32.01:371][237]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2022.12.06-15.32.01:371][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.32.01:371][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.32.01:371][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.32.01:372][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.06-15.32.01:372][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.06-15.32.01:374][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.06-15.32.01:374][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.06-15.32.01:374][237]LogInit: FAudioDevice initialized.
+[2022.12.06-15.32.01:374][237]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2022.12.06-15.32.01:393][237]LogLoad: Game class is 'GM_GameJamBigC_C'
+[2022.12.06-15.32.01:394][237]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.12.06-15.32.01
+[2022.12.06-15.32.01:394][237]LogWorld: Bringing up level for play took: 0.000725
+[2022.12.06-15.32.01:397][237]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.12.06-15.32.01:398][237]PIE: Server logged in
+[2022.12.06-15.32.01:399][237]PIE: Play in editor total start time 0.374 seconds.
+[2022.12.06-15.32.24:518][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.32.24:518][775]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.12.06-15.32.24:518][775]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.32.24:519][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.32.24:533][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.32.24:542][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.32.24:627][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.32.24:627][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.06-15.32.24:629][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.06-15.32.24:639][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.06-15.32.24:685][776]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.12.06-15.32.36:448][ 66]BlueprintLog: New page: Compile WBP_Main_Menu
+[2022.12.06-15.32.36:538][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.06-15.32.37:903][104]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Main_Menu
+[2022.12.06-15.32.37:912][104]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_Menu3960B5924454CCFD9FF75E9E35A41750.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Main_Menu.uasset'
+[2022.12.06-15.32.37:948][104]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2022.12.06-15.32.37:948][104]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.06-15.32.40:065][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-15.32.40:099][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.32.40:099][331]PIE: New page: PIE session: Main (6 Dec 2022, 15:32:40)
+[2022.12.06-15.32.40:099][331]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.12.06-15.32.40:105][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005786s)
+[2022.12.06-15.32.40:105][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.005863s)
+[2022.12.06-15.32.40:105][331]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.32.40:105][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.32.40:106][331]LogAIModule: Creating AISystem for world Main
+[2022.12.06-15.32.40:106][331]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2022.12.06-15.32.40:173][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.12.06-15.32.40:176][331]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.12.06-15.32.40:176][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.32.40:176][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.32.40:176][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.32.40:176][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.32.40:176][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.32.40:176][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.32.40:176][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.32.40:176][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.32.40:177][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.32.40:177][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.32.40:177][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.32.40:179][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.32.40:242][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2022.12.06-15.32.40:243][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.32.40:243][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.32.40:243][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.32.40:246][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.12.06-15.32.40:247][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.12.06-15.32.40:250][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.12.06-15.32.40:250][331]LogInit: FAudioDevice initialized.
+[2022.12.06-15.32.40:250][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.12.06-15.32.40:250][331]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2022.12.06-15.32.40:267][331]LogLoad: Game class is 'GM_GameJamBigC_C'
+[2022.12.06-15.32.40:268][331]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.12.06-15.32.40
+[2022.12.06-15.32.40:268][331]LogWorld: Bringing up level for play took: 0.000677
+[2022.12.06-15.32.40:270][331]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.12.06-15.32.40:272][331]PIE: Server logged in
+[2022.12.06-15.32.40:272][331]PIE: Play in editor total start time 0.173 seconds.
+[2022.12.06-15.32.50:878][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.32.50:878][583]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.12.06-15.32.50:879][583]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.32.50:879][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.32.50:894][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.32.50:907][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.32.50:983][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-15.32.50:983][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.06-15.32.50:986][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.06-15.32.50:992][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.32.50:997][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.12.06-15.32.51:050][584]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.12.06-15.33.16:925][580]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.12.06-15.33.16:929][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.109
+[2022.12.06-15.33.16:930][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TEMP_BP_Player_View] ([2] browsable assets)...
+[2022.12.06-15.33.16:930][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TEMP_BP_Player_View]
+[2022.12.06-15.33.17:159][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TEMP_BP_Player_View_Auto4
+[2022.12.06-15.33.17:159][580]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/TEMP_BP_Player_View_Auto49F5687E140383B8AB08B879830B980EE.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/Autosaves/Game/Blueprints/TEMP_BP_Player_View_Auto4.uasset'
+[2022.12.06-15.33.17:168][580]LogFileHelpers: Auto-saving content packages took 0.239
+[2022.12.06-15.36.54:167][361]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Main_Menu
+[2022.12.06-15.36.54:178][361]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_MenuB4B2757B4030D3CEA583F3BEBC81C447.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Main_Menu.uasset'
+[2022.12.06-15.37.00:339][361]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.06-15.37.02:050][361]LogSourceControl: commit successful: [Ryans-Widgets c4b1ea6] Progress
+[2022.12.06-15.37.02:394][361]SourceControl: [Ryans-Widgets c4b1ea6] Progress
+[2022.12.06-15.37.02:394][361]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.12.06-15.37.02:394][361]SourceControl:  create mode 100644 Content/Blueprints/WBP_Main_Menu.uasset
+[2022.12.06-15.37.02:416][361]SourceControl: Commited [Ryans-Widgets c4b1ea6] Progress.
+[2022.12.06-15.37.02:430][361]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2022.12.06-15.37.02:430][361]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.06-15.37.06:943][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.06-15.37.07:773][799]LogSavePackage: Moving output files for package: /Game/Blueprints/TEMP_BP_Player_View
+[2022.12.06-15.37.07:785][799]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/TEMP_BP_Player_ViewD677D8D444C326A8BB202E89CB1B3B28.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/TEMP_BP_Player_View.uasset'
+[2022.12.06-15.37.07:855][799]AssetCheck: New page: Asset Save: TEMP_BP_Player_View
+[2022.12.06-15.37.07:855][799]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TEMP_BP_Player_View.TEMP_BP_Player_View
+[2022.12.06-15.37.11:709][139]LogSavePackage: Moving output files for package: /Game/Blueprints/TEMP_BP_Player_View
+[2022.12.06-15.37.11:720][139]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/TEMP_BP_Player_View386C28D640EFD793CFCDDC835D4FAD63.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/TEMP_BP_Player_View.uasset'
+[2022.12.06-15.37.15:985][139]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.06-15.37.17:716][139]LogSourceControl: commit successful: [Ryans-Widgets 7fb93de] progress
+[2022.12.06-15.37.18:035][139]SourceControl: [Ryans-Widgets 7fb93de] progress
+[2022.12.06-15.37.18:035][139]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.12.06-15.37.18:065][139]SourceControl: Commited [Ryans-Widgets 7fb93de] progress.
+[2022.12.06-15.37.18:074][139]AssetCheck: New page: Asset Save: TEMP_BP_Player_View
+[2022.12.06-15.37.18:075][139]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TEMP_BP_Player_View.TEMP_BP_Player_View
