@@ -2172,3 +2172,120 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.08-22.42.22:212][ 67]LogSavePackage: Moving 'R:/Game Jams/Big C Y3 and Y2/Game-Jame/Saved/WBP_Cutscene4EF184774659A530F08994979C48EB2C.tmp' to 'R:/Game Jams/Big C Y3 and Y2/Game-Jame/Content/Blueprints/WBP_Cutscene.uasset'
 [2022.12.08-22.42.22:240][ 67]AssetCheck: New page: Asset Save: WBP_Cutscene
 [2022.12.08-22.42.22:240][ 67]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Cutscene.WBP_Cutscene
+[2022.12.08-22.42.59:211][621]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-22.42.59:212][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-22.42.59:223][621]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-22.42.59:223][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-22.43.00:058][675]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-22.43.00:058][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-22.43.00:068][675]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-22.43.00:068][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-22.43.00:838][737]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-22.43.00:838][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-22.43.00:847][737]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-22.43.00:847][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-22.44.37:865][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.12.08-22.44.37:877][102]LogStall: Shutdown...
+[2022.12.08-22.44.37:882][102]LogStall: Shutdown complete.
+[2022.12.08-22.44.37:962][102]LogSlate: Window 'Game_Jam - Unreal Editor' being destroyed
+[2022.12.08-22.44.38:329][103]Cmd: QUIT_EDITOR
+[2022.12.08-22.44.38:330][103]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.08-22.44.38:375][103]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.08-22.44.38:398][103]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.08-22.44.38:408][103]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.08-22.44.39:362][103]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.08-22.44.39:362][103]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.08-22.44.39:362][103]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2022.12.08-22.44.39:379][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.08-22.44.39:381][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.08-22.44.39:396][103]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.08-22.44.39:437][103]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.08-22.44.39:437][103]LogExit: Preparing to exit.
+[2022.12.08-22.44.39:683][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.08-22.44.39:694][103]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:694][103]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:699][103]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.39:700][103]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.08-22.44.41:413][103]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-22.44.41:640][103]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.08-22.44.41:854][103]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.12.08-22.44.41:909][103]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.08-22.44.42:069][103]LogExit: Editor shut down
+[2022.12.08-22.44.42:074][103]LogExit: Transaction tracking system shut down
+[2022.12.08-22.44.44:909][103]LogExit: Object subsystem successfully closed.
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: ================================================
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.08-22.44.44:921][103]LogShaderCompilers: Display: ================================================
+[2022.12.08-22.44.44:978][103]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.08-22.44.46:670][103]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (888)
+[2022.12.08-22.44.46:670][103]LogModuleManager: Shutting down and abandoning module Voice (886)
+[2022.12.08-22.44.46:683][103]LogModuleManager: Shutting down and abandoning module SequencerWidgets (884)
+[2022.12.08-22.44.46:683][103]LogModuleManager: Shutting down and abandoning module BlueprintGraph (882)
+[2022.12.08-22.44.46:683][103]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2022.12.08-22.44.46:683][103]LogModuleManager: Shutting down and abandoning module SubobjectEditor (878)
+[2022.12.08-22.44.46:683][103]LogModuleManager: Shutting down and abandoning module SceneOutliner (876)
+[2022.12.08-22.44.46:683][103]LogModuleManager: Shutting down and abandoning module AddContentDialog (874)
+[2022.12.08-22.44.46:692][103]LogModuleManager: Shutting down and abandoning module WidgetCarousel (873)
+[2022.12.08-22.44.46:692][103]LogModuleManager: Shutting down and abandoning module StatusBar (870)
+[2022.12.08-22.44.46:692][103]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (868)
+[2022.12.08-22.44.46:692][103]LogModuleManager: Shutting down and abandoning module StatsViewer (866)
+[2022.12.08-22.44.46:693][103]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (864)
+[2022.12.08-22.44.46:702][103]LogModuleManager: Shutting down and abandoning module AutomationWorker (862)
+[2022.12.08-22.44.46:702][103]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (860)
+[2022.12.08-22.44.46:702][103]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (858)
+[2022.12.08-22.44.46:702][103]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (856)
+[2022.12.08-22.44.46:702][103]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (854)
+[2022.12.08-22.44.46:702][103]LogModuleManager: Shutting down and abandoning module WebMMedia (852)
+[2022.12.08-22.44.46:703][103]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (850)
+[2022.12.08-22.44.46:704][103]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (848)
+[2022.12.08-22.44.46:704][103]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (846)
+[2022.12.08-22.44.46:704][103]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (844)
+[2022.12.08-22.44.46:717][103]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (842)
+[2022.12.08-22.44.46:733][103]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (840)
+[2022.12.08-22.44.46:733][103]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (838)
+[2022.12.08-22.44.46:733][103]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (836)
+[2022.12.08-22.44.46:733][103]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (834)
+[2022.12.08-22.44.46:733][103]LogModuleManager: Shutting down and abandoning module PlanarCut (832)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module CharacterAI (830)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (828)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module GooglePADEditor (826)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (824)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module SequenceRecorder (823)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (820)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (818)
+[2022.12.08-22.44.46:747][103]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (816)
+[2022.12.08-22.44.46:771][103]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (814)
+[2022.12.08-22.44.46:793][103]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (812)
+[2022.12.08-22.44.46:798][103]LogModuleManager: Shutting down and abandoning module TextureAlignMode (810)
+[2022.12.08-22.44.46:798][103]LogModuleManager: Shutting down and abandoning module BspMode (808)
+[2022.12.08-22.44.46:813][103]LogModuleManager: Shutting down and abandoning module GeometryMode (806)
+[2022.12.08-22.44.46:826][103]LogModuleManager: Shutting down and abandoning module SmartSnapping (804)
+[2022.12.08-22.44.46:826][103]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (802)
+[2022.12.08-22.44.46:833][103]LogModuleManager: Shutting down and abandoning module ControlRigEditor (800)
+[2022.12.08-22.44.46:896][103]LogModuleManager: Shutting down and abandoning module AnimationEditor (799)
+[2022.12.08-22.44.46:897][103]LogModuleManager: Shutting down and abandoning module IKRigEditor (796)
+[2022.12.08-22.44.46:910][103]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (794)
+[2022.12.08-22.44.46:910][103]LogModuleManager: Shutting down and abandoning module SessionServices (792)
+[2022.12.08-22.44.46:910][103]LogModuleManager: Shutting down and abandoning module MeshPaint (790)
+[2022.12.08-22.44.46:924][103]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (788)
+[2022.12.08-22.44.46:936][103]LogModuleManager: Shutting down and abandoning module PlacementMode (787)
+[2022.12.08-22.44.46:937][103]LogModuleManager: Shutting down and abandoning module FoliageEdit (784)
+[2022.12.08-22.44.46:953][103]LogModuleManager: Shutting down and abandoning module LandscapeEditor (782)
+[2022.12.08-22.44.46:975][103]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (780)
+[2022.12.08-22.44.46:975][103]LogModuleManager: Shutting down and abandoning module ActorPickerMode (778)
+[2022.12.08-22.44.46:976][103]LogModuleManager: Shutting down and abandoning module ViewportSnapping (776)
+[2022.12.08-22.44.46:976][103]LogModuleManager: Shutting down and abandoning module EditorWidgets (774)
