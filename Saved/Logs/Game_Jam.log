@@ -4987,3 +4987,23 @@ Script Stack (0 frames):
 [2022.12.08-16.38.23:164][611]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
 [2022.12.08-16.38.23:165][611]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Tutorial.WBP_Tutorial
 [2022.12.08-16.38.26:531][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.08-16.40.43:868][ 66]BlueprintLog: New page: Compile WBP_Tutorial
+[2022.12.08-16.40.43:972][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.12.08-16.40.44:703][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_Tutorial" FILE="//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Tutorial.uasset" SILENT=true
+[2022.12.08-16.40.45:828][ 77]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Tutorial
+[2022.12.08-16.40.45:839][ 77]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Tutorial4DB2D658426460474C1D628EADA9C31A.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Tutorial.uasset'
+[2022.12.08-16.40.45:891][ 77]AssetCheck: New page: Asset Save: WBP_Tutorial
+[2022.12.08-16.40.45:891][ 77]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Tutorial.WBP_Tutorial
+[2022.12.08-16.40.54:657][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_Tutorial" FILE="//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Tutorial.uasset" SILENT=true
+[2022.12.08-16.40.55:826][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Tutorial
+[2022.12.08-16.40.55:835][  8]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Tutorial750F97D04C56C36D9B7D5D911753C8B9.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Tutorial.uasset'
+[2022.12.08-16.40.56:646][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_Main_Menu
+[2022.12.08-16.40.56:655][  8]LogSavePackage: Moving '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Saved/WBP_Main_MenuC519EA524085BB05D94753B6E0E3DB31.tmp' to '//NUA-STOR08.nua.ac.uk/home 2020/2002424/Ryan/BigC Games Jam/Jammy Jam/Game_Jam_Big_C/Content/Blueprints/WBP_Main_Menu.uasset'
+[2022.12.08-16.41.00:823][  8]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.08-16.41.02:580][  8]LogSourceControl: commit successful: [Ryans-Widgets 7695485] RD_
+[2022.12.08-16.41.02:943][  8]SourceControl: [Ryans-Widgets 7695485] RD_
+[2022.12.08-16.41.02:943][  8]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.12.08-16.41.02:973][  8]SourceControl: Commited [Ryans-Widgets 7695485] RD_.
+[2022.12.08-16.41.02:985][  8]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.08-16.41.02:985][  8]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.08-16.41.02:985][  8]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Tutorial.WBP_Tutorial
