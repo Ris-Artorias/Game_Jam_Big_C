@@ -1805,3 +1805,85 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.08-23.44.34:120][207]LogSavePackage: Moving 'R:/Game Jams/Big C Y3 and Y2/Game-Jame/Saved/WBP_Main_MenuC89C9AF949B77E804664219782E372EF.tmp' to 'R:/Game Jams/Big C Y3 and Y2/Game-Jame/Content/Blueprints/WBP_Main_Menu.uasset'
 [2022.12.08-23.44.34:148][207]AssetCheck: New page: Asset Save: WBP_Main_Menu
 [2022.12.08-23.44.34:148][207]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Main_Menu.WBP_Main_Menu
+[2022.12.08-23.45.04:755][840]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-23.45.04:755][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-23.45.04:766][840]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-23.45.04:766][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-23.45.05:717][944]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-23.45.05:717][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-23.45.05:728][944]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-23.45.05:728][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-23.45.07:466][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.08-23.45.07:472][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.08-23.45.07:472][ 70]PIE: New page: PIE session: Main (8 Dec 2022, 23:45:07)
+[2022.12.08-23.45.07:473][ 70]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.12.08-23.45.07:475][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2022.12.08-23.45.07:475][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.002945s)
+[2022.12.08-23.45.07:476][ 70]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.08-23.45.07:476][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.08-23.45.07:476][ 70]LogAIModule: Creating AISystem for world Main
+[2022.12.08-23.45.07:476][ 70]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2022.12.08-23.45.07:555][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.12.08-23.45.07:564][ 70]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.08-23.45.07:564][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.08-23.45.07:564][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.08-23.45.07:564][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.08-23.45.07:564][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.08-23.45.07:564][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.08-23.45.07:564][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.08-23.45.07:564][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.08-23.45.07:564][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.08-23.45.07:564][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.08-23.45.07:564][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.08-23.45.07:564][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.08-23.45.07:567][ 70]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.08-23.45.07:592][ 70]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2022.12.08-23.45.07:592][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.08-23.45.07:592][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.08-23.45.07:592][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.08-23.45.07:593][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.12.08-23.45.07:593][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.12.08-23.45.07:595][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.12.08-23.45.07:595][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.12.08-23.45.07:595][ 70]LogInit: FAudioDevice initialized.
+[2022.12.08-23.45.07:595][ 70]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2022.12.08-23.45.07:632][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-23.45.07:633][ 70]LogLoad: Game class is 'GM_GameJamBigC_C'
+[2022.12.08-23.45.07:634][ 70]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.12.08-23.45.07
+[2022.12.08-23.45.07:634][ 70]LogWorld: Bringing up level for play took: 0.000876
+[2022.12.08-23.45.07:636][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.12.08-23.45.07:639][ 70]PIE: Server logged in
+[2022.12.08-23.45.07:641][ 70]PIE: Play in editor total start time 0.168 seconds.
+[2022.12.08-23.45.07:649][ 70]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.12.08-23.45.55:148][ 92]LogNet: Browse: /Game/Main
+[2022.12.08-23.45.55:148][ 92]LogLoad: LoadMap: /Game/Main
+[2022.12.08-23.45.55:148][ 92]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.12.08-23.45.55:149][ 92]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-23.45.55:149][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-23.45.55:190][ 92]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.08-23.45.55:230][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.12.08-23.45.55:236][ 92]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.12.08-23.45.55:239][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002570s)
+[2022.12.08-23.45.55:239][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.002682s)
+[2022.12.08-23.45.55:239][ 92]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2022.12.08-23.45.55:239][ 92]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.08-23.45.55:239][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.08-23.45.55:239][ 92]LogAIModule: Creating AISystem for world Main
+[2022.12.08-23.45.55:239][ 92]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2022.12.08-23.45.55:239][ 92]LogLoad: Game class is 'GM_GameJamBigC_C'
+[2022.12.08-23.45.55:240][ 92]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.12.08-23.45.55
+[2022.12.08-23.45.55:240][ 92]LogWorld: Bringing up level for play took: 0.000471
+[2022.12.08-23.45.55:242][ 92]LogLoad: Took 0.093547 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2022.12.08-23.45.56:619][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.08-23.45.56:619][178]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.12.08-23.45.56:620][178]LogSlate: Window 'Game_Jam Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.08-23.45.56:626][178]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.12.08-23.45.56:626][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-23.45.56:643][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.08-23.45.56:650][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.08-23.45.56:689][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.08-23.45.56:689][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.08-23.45.56:690][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.08-23.45.56:696][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.08-23.45.56:716][179]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.12.08-23.45.59:551][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
